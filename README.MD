@@ -1,0 +1,1 @@
+Version 1.6.1 of the plugin doesn't highlight any issues in the Spock Groovy tests. But updating to anything later does.
